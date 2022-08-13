@@ -168,7 +168,7 @@ body {
         }
       }
     }
-    h4 {
+    h5 {
       margin-top: 50px;
       text-align: center;
     }
@@ -431,6 +431,7 @@ body {
           margin: auto;
         }
       }
+      
       .content-learn {
         flex-direction: column;
         .content-learn-text {
@@ -493,9 +494,9 @@ body {
 
   // ===
   .fooder {
-    position: relative;
-    top: 2300px;
-    height: 320%;
+    position: absolute;
+    top: 2600px !important;
+    height: 325% !important;
     .fooder-text {
       flex-direction: column;
       text-align: center;
@@ -658,7 +659,7 @@ body {
   // ===
   .fooder {
     position: relative;
-    top: 2000px;
+    top: 2300px;
     height: 280%;
     .fooder-text {
       flex-direction: column;
@@ -773,7 +774,7 @@ body {
     // ===
     .fooder {
       position: relative;
-      top: -600px;
+      top: -400px;
     }
 }
 

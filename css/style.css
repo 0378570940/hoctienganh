@@ -150,7 +150,7 @@ body {
   flex: 1;
   max-width: 750px;
 }
-.content .content-main h4 {
+.content .content-main h5 {
   margin-top: 50px;
   text-align: center;
 }
@@ -453,9 +453,9 @@ body {
     margin: auto;
   }
   .fooder {
-    position: relative;
-    top: 2300px;
-    height: 320%;
+    position: absolute;
+    top: 2600px !important;
+    height: 325% !important;
   }
   .fooder .fooder-text {
     flex-direction: column;
@@ -597,7 +597,7 @@ body {
   }
   .fooder {
     position: relative;
-    top: 2000px;
+    top: 2300px;
     height: 280%;
   }
   .fooder .fooder-text {
@@ -690,6 +690,6 @@ body {
   }
   .fooder {
     position: relative;
-    top: -600px;
+    top: -400px;
   }
 }/*# sourceMappingURL=style.css.map */
